@@ -1,0 +1,11 @@
+D:\PRJ\Project_FoodShop\src\main\java\com\mycompany\project_foodshop\JakartaRestConfiguration.java
+D:\PRJ\Project_FoodShop\src\main\java\com\mycompany\project_foodshop\resources\JakartaEE10Resource.java
+D:\PRJ\Project_FoodShop\src\main\java\controller\HomeServlet.java
+D:\PRJ\Project_FoodShop\src\main\java\controller\LoginServlet.java
+D:\PRJ\Project_FoodShop\src\main\java\controller\LogoutServlet.java
+D:\PRJ\Project_FoodShop\src\main\java\controller\SignupServlet.java
+D:\PRJ\Project_FoodShop\src\main\java\dao\ProductDAO.java
+D:\PRJ\Project_FoodShop\src\main\java\dao\UserDAO.java
+D:\PRJ\Project_FoodShop\src\main\java\db\DBContext.java
+D:\PRJ\Project_FoodShop\src\main\java\model\Product.java
+D:\PRJ\Project_FoodShop\src\main\java\model\User.java
